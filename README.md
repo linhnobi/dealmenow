@@ -54,5 +54,5 @@ Of course! Open an issue and let's discuss :smiley:.
 Similar projects that could be a point of inspiration:
 
 - [krasimir/webpack-library-starter](https://github.com/krasimir/webpack-library-starter)
-https://www.dealmenow.net/flexa-directlink-vie-d01
+- https://www.dealmenow.net/flexa-directlink-vie-d01
 
